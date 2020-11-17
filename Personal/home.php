@@ -38,7 +38,7 @@ function ubahTanggal2($tgl2){
 	return $satukan;
 }	
 ?>
-<form action="index.php" method="post">
+<form action="home.php" method="post">
 <center>
 <select name="ruang" required="">
 <?php
